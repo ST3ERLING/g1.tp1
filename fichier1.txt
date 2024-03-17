@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C s'appelle SOFT 2020
+ Le num‚ro de s‚rie du volume est 762D-84BF
+
+ R‚pertoire de C:\Users\asus\Desktop\app1
+
+17/03/2024  11:56    <DIR>          .
+17/03/2024  11:56    <DIR>          ..
+17/03/2024  11:56                 0 fichier1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  70ÿ271ÿ504ÿ384 octets libres
